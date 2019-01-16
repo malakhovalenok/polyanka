@@ -9,3 +9,9 @@
 [Lorem Ipsum](https://github.com/haniani/haniani.github.io/blob/master/example_markdown.md/ "Lorem")
 
 ![ne poluchilos] (https://camo.githubusercontent.com/6bbea9a9aa52b24f7d3a1d56ab7855db445180a7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7453797576335a5243667353443561584237763844512e706e67)
+
+|*Предмет*	|*Количество*	|*Цена*|
+|------|-|----|
+|**Арбуз**	|3	|150|
+|**Груша**	|10	|230|
+|~~Вишня~~|~~80~~|~~340~~|
